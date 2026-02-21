@@ -122,7 +122,7 @@ export function Introduction({ onStart }: IntroductionProps) {
           className="pt-4"
         >
           <p className="text-xs text-zinc-600 mb-6">
-            Only about 5–10% solve it without assistance.
+            lfg - tourarcade 
           </p>
           
           <form onSubmit={handleSubmit} className="space-y-4">
